@@ -105,3 +105,11 @@ LOAD_FN(g_hDll, AbreConexaoImpressora);
 ```
 
 -----
+
+#### Participantes
+
+Arthur Augusto Mendes de Lacerda,
+Arthur Pereira ,
+Markson da Silva Ribeiro,
+Guilherme Santos Gomes,
+Tiago Dias de Oliveira 
